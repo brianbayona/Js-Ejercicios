@@ -25,7 +25,7 @@
     border-radius: 4px;
 }
 
-/* Modificadores para cada ejercicio */
+/* Modificadores: cada ejercicio con color distinto */
 .ejercicio--saludo {
     border-color: #4caf50;
     background-color: #d0f0c0;
@@ -49,6 +49,16 @@
 .ejercicio--temperatura {
     border-color: #f44336;
     background-color: #f0c0c0;
+}
+
+.ejercicio--perimetro {
+    border-color: #795548;
+    background-color: #d9c6b2;
+}
+
+.ejercicio--doble-triple {
+    border-color: #009688;
+    background-color: #b2dfdb;
 }
 
 /* Opcional: estilo general para h1 */
